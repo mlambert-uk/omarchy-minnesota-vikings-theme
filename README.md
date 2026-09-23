@@ -2,7 +2,7 @@
 
 An unofficial Minnesota Vikings-inspired dark theme with deep purple backgrounds, gold accents, ivory text, and readable lavender terminal colours.
 
-![Skol helmet wallpaper](backgrounds/skol.png)
+![Minnesota Vikings theme desktop preview](preview.png)
 
 ## Install
 
@@ -25,6 +25,8 @@ Three PNG backgrounds are included, each 1672 × 941 pixels:
 - **Skol** — a purple football helmet with ivory and gold Viking horns.
 - **Northern Gold** — purple aurora above a snowy Nordic lake and longship.
 - **Purple and Gold Stadium** — a dramatic football stadium at night.
+
+![Skol helmet wallpaper](backgrounds/skol.png)
 
 ![Northern Gold](backgrounds/northern-gold.png)
 
